@@ -2,6 +2,7 @@ var _; //globals
 
 describe("About Applying What We Have Learnt", function() {
 
+
   var products;
 
   beforeEach(function () { 
